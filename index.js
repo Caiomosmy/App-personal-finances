@@ -10,3 +10,7 @@
 
 
 /*React Native**/
+
+
+
+/*Recursos externos*/
